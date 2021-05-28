@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline;
+  list-style: none;
+  padding: 0px 20px;
+  text-align: center;
+  font-size: 55px;
+}
+
+.footer h3 {
+  color: red;
+  font-size: smaller;
+  padding-left: 50px;
+}
